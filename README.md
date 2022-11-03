@@ -21,9 +21,9 @@
 
 
 #### :scroll: Project List
-- [x] <a href="https://github.com/JAIMEjun10r/Robot-Framework---BarrigaReact">Projeto de automação do site BarrigaReact com Robot Framework</a> 
+- [x] <a href="https://github.com/JAIMEjun10r/Robot-Framework---BarrigaReact">Projeto de automação do site BarrigaReact com Robot Framework</a>⭐ 
 - [x] <a href="https://github.com/JAIMEjun10r/Cypress">Login e Cadastro usando o Cypress</a>
 - [x] <a href="https://github.com/JAIMEjun10r/Python">Programas simples desenvolvidos em Python</a>
-- [x] <a href="https://github.com/JAIMEjun10r/SegundaVersao">Segunda versão do programa de automação de matérias da faculdade escrito com Python</a> ⭐
-- [x] <a href="https://github.com/JAIMEjun10r/10-cenarios-de-Testes-para-cadastro-de-usu-rio">Automação de dadastro de usuários usando o Robot Framework</a>
+- [x] <a href="https://github.com/JAIMEjun10r/SegundaVersao">Segunda versão do programa de automação de matérias da faculdade escrito com Python</a> 
+- [x] <a href="https://github.com/JAIMEjun10r/10-cenarios-de-Testes-para-cadastro-de-usu-rio">Automação de cadastro de usuários usando o Robot Framework</a>
 - [x] <a href="https://github.com/JAIMEjun10r/Teste-API_RobotFramework">Teste de API com o Robot Framework</a> 
