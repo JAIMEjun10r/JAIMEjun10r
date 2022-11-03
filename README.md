@@ -14,6 +14,11 @@
 [![Python](https://skills.thijs.gg/icons?i=py)](https://pt.wikipedia.org/wiki/Python)
 [![Git](https://skills.thijs.gg/icons?i=git)](https://pt.wikipedia.org/wiki/Git) 
 [![Mysql](https://skills.thijs.gg/icons?i=mysql)](https://pt.wikipedia.org/wiki/Mysql)
+[![Cypress](https://user-images.githubusercontent.com/93720316/199821436-514d2b9e-10c8-4321-b0e1-bd1dcf52489a.png)](https://pt.wikipedia.org/wiki/Cypress)
+[![Vscode](https://user-images.githubusercontent.com/93720316/199822711-919922e2-2249-477f-9a68-0e81db260666.png)](https://pt.wikipedia.org/wiki/Vscode)
+[![RobotFramework](https://user-images.githubusercontent.com/93720316/199823510-321d8a8d-8d1a-47ef-aed7-bfe270ba2871.png)](https://pt.wikipedia.org/wiki/RobotFramework)
+[![Postman](https://user-images.githubusercontent.com/93720316/199824007-aa0fe203-00fc-4aa9-a305-2767e29d0cce.png)](https://pt.wikipedia.org/wiki/Postman)
+
 
 #### :scroll: Project List
 - [x] <a href="https://github.com/JAIMEjun10r/Robot-Framework---BarrigaReact">Projeto de automação do site BarrigaReact com Robot Framework</a> 
