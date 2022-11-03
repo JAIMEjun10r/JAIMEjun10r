@@ -11,5 +11,14 @@
 [![HTML5](https://skills.thijs.gg/icons?i=html)](https://pt.wikipedia.org/wiki/HTML5)
 [![CSS3](https://skills.thijs.gg/icons?i=css)](https://pt.wikipedia.org/wiki/CSS3)
 [![JavaScript](https://skills.thijs.gg/icons?i=js)](https://pt.wikipedia.org/wiki/JavaScript)
+[![Python](https://skills.thijs.gg/icons?i=py)](https://pt.wikipedia.org/wiki/Python)
+[![Git](https://skills.thijs.gg/icons?i=git)](https://pt.wikipedia.org/wiki/Git) 
+[![Mysql](https://skills.thijs.gg/icons?i=mysql)](https://pt.wikipedia.org/wiki/Mysql)
 
- 
+#### :scroll: Project List
+- [x] <a href="https://github.com/JAIMEjun10r/Robot-Framework---BarrigaReact">Projeto de automação do site BarrigaReact com Robot Framework</a> 
+- [x] <a href="https://github.com/JAIMEjun10r/Cypress">Login e Cadastro usando o Cypress</a>
+- [x] <a href="https://github.com/JAIMEjun10r/Python">Programas simples desenvolvidos em Python</a>
+- [x] <a href="https://github.com/JAIMEjun10r/SegundaVersao">Segunda versão do programa de automação de matérias da faculdade escrito com Python</a> ⭐
+- [x] <a href="https://github.com/JAIMEjun10r/10-cenarios-de-Testes-para-cadastro-de-usu-rio">Automação de dadastro de usuários usando o Robot Framework</a>
+- [x] <a href="https://github.com/JAIMEjun10r/Teste-API_RobotFramework">Teste de API com o Robot Framework</a> 
