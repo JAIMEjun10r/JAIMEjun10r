@@ -28,5 +28,6 @@
 - [x] <a href="https://github.com/JAIMEjun10r/SegundaVersao">Segunda versão do programa de automação de matérias da faculdade escrito com Python</a> 
 - [x] <a href="https://github.com/JAIMEjun10r/automationBro-Playwright)">Automação com Playwright</a>
 - [x] <a href="https://github.com/JAIMEjun10r/Teste-API_RobotFramework">Teste de API com o Robot Framework</a> 
+- [x] <a href="https://github.com/JAIMEjun10r/Using-Fixtures-and-Alerts-with-Playwright"> Using-Fixtures-and-Alerts-with-Playwright</a> 
 
 
