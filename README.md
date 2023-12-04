@@ -28,7 +28,7 @@
 - [x] <a href="https://github.com/JAIMEjun10r/Python">Programas simples desenvolvidos em Python</a>
 - [x] <a href="https://github.com/JAIMEjun10r/SegundaVersao">Segunda versão do programa de automação de matérias da faculdade escrito com Python</a> 
 - [x] <a href="https://github.com/JAIMEjun10r/automationBro-Playwright)">Automação com Playwright</a>
-- [x] <a href="[https://github.com/JAIMEjun10r/webdriverSite)">Cypress Webdriversite</a> 
+- [x] <a href="https://github.com/JAIMEjun10r/webdriverSite)">Cypress Webdriversite</a> 
 
 
 
