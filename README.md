@@ -21,7 +21,7 @@
 
 
 #### :scroll: Project List
-- [x] <a href="https://github.com/JAIMEjun10r/lojinhaEbac">Criando testes básicos na lojinha da EBAC</a>
+- [x] <a href="https://github.com/JAIMEjun10r/qaPracticeWebsite">qaPracticeWebsite com Cypress</a>
 - [x] <a href="https://github.com/JAIMEjun10r/Using-Fixtures-and-Alerts-with-Playwright"> Using-Fixtures-and-Alerts-with-Playwright</a>  
 - [x] <a href="https://github.com/JAIMEjun10r/Robot-Framework---BarrigaReact">Projeto de automação do site BarrigaReact com Robot Framework</a>⭐ 
 - [x] <a href="https://github.com/JAIMEjun10r/CollectionTests-Playwright">Coleções de códigos usando Paywright</a>
