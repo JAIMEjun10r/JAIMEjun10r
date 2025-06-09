@@ -18,7 +18,7 @@
 [![Vscode](https://user-images.githubusercontent.com/93720316/199822711-919922e2-2249-477f-9a68-0e81db260666.png)](https://pt.wikipedia.org/wiki/Vscode)
 [![RobotFramework](https://user-images.githubusercontent.com/93720316/199823510-321d8a8d-8d1a-47ef-aed7-bfe270ba2871.png)](https://pt.wikipedia.org/wiki/RobotFramework)
 [![Postman](https://user-images.githubusercontent.com/93720316/199824007-aa0fe203-00fc-4aa9-a305-2767e29d0cce.png)](https://pt.wikipedia.org/wiki/Postman)
-[![JavaScript](https://skills.thijs.gg/icons?i=pw)
+[![Playwright](https://skills.thijs.gg/icons?i=pw)
 
 
 #### :scroll: Project List
