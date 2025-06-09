@@ -21,14 +21,14 @@
 
 
 #### :scroll: Project List
-- [x] <a href="https://github.com/JAIMEjun10r/qaPracticeWebsite">qaPracticeWebsite com Cypress</a>
-- [x] <a href="https://github.com/JAIMEjun10r/Using-Fixtures-and-Alerts-with-Playwright"> Using-Fixtures-and-Alerts-with-Playwright</a>  
-- [x] <a href="https://github.com/JAIMEjun10r/serverRest">Projeto de automação de API do serverrest usando Cypress</a>⭐ 
-- [x] <a href="https://github.com/JAIMEjun10r/CollectionTests-Playwright">Coleções de códigos usando Paywright</a>
-- [x] <a href="https://github.com/JAIMEjun10r/bulldogCypress">Automação do software Bulldoggy utilizando Cypress</a>
-- [x] <a href="https://github.com/JAIMEjun10r/AutomationExercise">E-commerce automation usando Playwright</a> 
-- [x] <a href="https://github.com/JAIMEjun10r/automationBro-Playwright">Automação com Playwright</a>
-- [x] <a href="https://github.com/JAIMEjun10r/webdriverSite">Cypress Webdriversite</a> 
+- [x] <a href="https://github.com/JAIMEjun10r/qaPracticeWebsite">qaPracticeWebsite with Cypress</a>
+- [x] <a href="https://github.com/JAIMEjun10r/Using-Fixtures-and-Alerts-with-Playwright">Using Fixtures and Alerts with Playwright</a>  
+- [x] <a href="https://github.com/JAIMEjun10r/serverRest">API automation project for serverrest using Cypress</a> ⭐ 
+- [x] <a href="https://github.com/JAIMEjun10r/CollectionTests-Playwright">Code collection using Playwright</a>
+- [x] <a href="https://github.com/JAIMEjun10r/bulldogCypress">Bulldog software automation using Cypress</a>
+- [x] <a href="https://github.com/JAIMEjun10r/AutomationExercise">E-commerce automation using Playwright</a> 
+- [x] <a href="https://github.com/JAIMEjun10r/automationBro-Playwright">Automation with Playwright</a>
+- [x] <a href="https://github.com/JAIMEjun10r/webdriverSite">Cypress WebdriverSite</a> 
 
 
 
