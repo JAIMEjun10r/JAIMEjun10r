@@ -26,7 +26,7 @@
 - [x] <a href="https://github.com/JAIMEjun10r/serverRest">Projeto de automação de API do serverrest usando Cypress</a>⭐ 
 - [x] <a href="https://github.com/JAIMEjun10r/CollectionTests-Playwright">Coleções de códigos usando Paywright</a>
 - [x] <a href="https://github.com/JAIMEjun10r/idblog---Cypress">idblog---Cypress</a>
-- [x] <a href="https://github.com/JAIMEjun10r/AutomationExercise">E-commerce automation usando PLaywright</a> 
+- [x] <a href="https://github.com/JAIMEjun10r/AutomationExercise">E-commerce automation usando Playwright</a> 
 - [x] <a href="https://github.com/JAIMEjun10r/automationBro-Playwright">Automação com Playwright</a>
 - [x] <a href="https://github.com/JAIMEjun10r/webdriverSite">Cypress Webdriversite</a> 
 
