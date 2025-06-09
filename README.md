@@ -25,7 +25,7 @@
 - [x] <a href="https://github.com/JAIMEjun10r/Using-Fixtures-and-Alerts-with-Playwright"> Using-Fixtures-and-Alerts-with-Playwright</a>  
 - [x] <a href="https://github.com/JAIMEjun10r/serverRest">Projeto de automação de API do serverrest usando Cypress</a>⭐ 
 - [x] <a href="https://github.com/JAIMEjun10r/CollectionTests-Playwright">Coleções de códigos usando Paywright</a>
-- [x] <a href="https://github.com/JAIMEjun10r/idblog---Cypress">idblog---Cypress</a>
+- [x] <a href="https://github.com/JAIMEjun10r/bulldogCypress">Automação do software Bulldoggy utilizando Cypress</a>
 - [x] <a href="https://github.com/JAIMEjun10r/AutomationExercise">E-commerce automation usando Playwright</a> 
 - [x] <a href="https://github.com/JAIMEjun10r/automationBro-Playwright">Automação com Playwright</a>
 - [x] <a href="https://github.com/JAIMEjun10r/webdriverSite">Cypress Webdriversite</a> 
