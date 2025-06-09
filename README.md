@@ -2,7 +2,7 @@
 
 - 📖 Cursando bacharelado em <a href="https://pt.wikipedia.org/wiki/Sistema_de_informa%C3%A7%C3%A3o">Sistemas de Informação</a> (<a href="https://pt.wikipedia.org/wiki/Educa%C3%A7%C3%A3o_a_dist%C3%A2ncia">Educação a Distância</a>).  
 - 🔭 Aprofundando-me cada vez mais no mundo da <a href="https://pt.wikipedia.org/wiki/Automa%C3%A7%C3%A3o_de_teste">Automação de teste</a>.
-- 🌱 Estudando Cypress, Robot Framework, Postman e outras tecnologias para automação de testes
+- 🌱 Estudando Cypress, Playwright, Postman e outras tecnologias para automação de testes
 
 
 
@@ -18,6 +18,7 @@
 [![Vscode](https://user-images.githubusercontent.com/93720316/199822711-919922e2-2249-477f-9a68-0e81db260666.png)](https://pt.wikipedia.org/wiki/Vscode)
 [![RobotFramework](https://user-images.githubusercontent.com/93720316/199823510-321d8a8d-8d1a-47ef-aed7-bfe270ba2871.png)](https://pt.wikipedia.org/wiki/RobotFramework)
 [![Postman](https://user-images.githubusercontent.com/93720316/199824007-aa0fe203-00fc-4aa9-a305-2767e29d0cce.png)](https://pt.wikipedia.org/wiki/Postman)
+[![JavaScript](https://skills.thijs.gg/icons?i=pw)
 
 
 #### :scroll: Project List
