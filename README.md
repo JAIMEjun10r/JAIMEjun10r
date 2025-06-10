@@ -2,7 +2,7 @@
 
 - 📖 Cursando bacharelado em <a href="https://pt.wikipedia.org/wiki/Sistema_de_informa%C3%A7%C3%A3o">Sistemas de Informação</a> (<a href="https://pt.wikipedia.org/wiki/Educa%C3%A7%C3%A3o_a_dist%C3%A2ncia">Educação a Distância</a>).  
 - 🔭 Aprofundando-me cada vez mais no mundo da <a href="https://pt.wikipedia.org/wiki/Automa%C3%A7%C3%A3o_de_teste">Automação de teste</a>.
-- 🌱 Estudando Cypress, Playwright, Postman e outras tecnologias para automação de testes
+- 🌱 Sempre estudando Cypress, Playwright, Postman e outras tecnologias para automação de testes
 
 
 
