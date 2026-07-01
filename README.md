@@ -21,9 +21,9 @@
 
 
 #### :scroll: Project List
-- [x] <a href="[https://github.com/JAIMEjun10r/qaPracticeWebsite](https://github.com/JAIMEjun10r/ecommerce-test-app-Playwright)">ecommerce with Playwright</a>
+- [x] <a href="https://github.com/JAIMEjun10r/ecommerce-test-app-Playwright">ecommerce with Playwright</a>
 - [x] <a href="https://github.com/JAIMEjun10r/Using-Fixtures-and-Alerts-with-Playwright">Using Fixtures and Alerts with Playwright</a>  
-- [x] <a href="https://github.com/JAIMEjun10r/serverRest">API automation project for serverrest using Cypress</a> ⭐ 
+- [x] <a href="https://github.com/JAIMEjun10r/ecommerceFakerRobotFramework">ecommerceFakerRobotFramework</a> ⭐ 
 - [x] <a href="https://github.com/JAIMEjun10r/CollectionTests-Playwright">Code collection using Playwright</a>
 - [x] <a href="https://github.com/JAIMEjun10r/bulldogCypress">Bulldog software automation using Cypress</a>
 - [x] <a href="https://github.com/JAIMEjun10r/AutomationExercise">E-commerce automation using Playwright</a> 
